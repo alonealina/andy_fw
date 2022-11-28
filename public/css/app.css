@@ -1,0 +1,20 @@
+.comingsoon {
+    width:100vw;
+    height:100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+@media screen and (min-width: 501px) {
+    .comingsoon {
+        background-image: url(../img/comingsoon.jpg);
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .comingsoon {
+        background-image: url(../img/comingsoon_sp.jpg);
+    }
+}
