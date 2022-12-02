@@ -1501,6 +1501,10 @@ label {
         transform: rotate(-0deg);
     }
 
+    #menu-btn-check:checked ~ .top_fixed_div {
+        z-index: 0;
+    }
+
     #menu-btn-check {
         display: none;
     }
