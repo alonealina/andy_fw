@@ -762,6 +762,7 @@ select {
     text-decoration: underline;
 }
 
+
 .company_img {
     width:1000px;
     display: block;
@@ -889,6 +890,15 @@ select {
         text-decoration: underline;
     }
 }
+
+.store_a:not([href]):not([tabindex]), .store_a:not([href]):not([tabindex]):hover {
+    color: #000;
+}
+
+.store_a_sp:not([href]):not([tabindex]), .store_a_sp:not([href]):not([tabindex]):hover {
+    color: #000;
+}
+
 .contact_div_sp {
     width: 100%;
     margin: 50px auto 100px;
