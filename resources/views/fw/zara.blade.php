@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-    Special Edition : ZARA
+special contents「ZARA」
 </div>
 
 @endsection
@@ -39,7 +39,7 @@
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-Special Edition : ZARA
+special contents「ZARA」
 </div>
 @endsection
 

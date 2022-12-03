@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-    Hostess Susukino
+It Girl in Susukino
 </div>
 
 @endsection
@@ -55,7 +55,7 @@
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-Hostess Susukino
+It Girl in Susukino
 </div>
 @endsection
 

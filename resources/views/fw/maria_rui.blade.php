@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-    Maria Otori × Rui Hoshisaki
+Conversation Rui&Maria
 </div>
 
 @endsection
@@ -52,7 +52,7 @@
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-Maria Otori × Rui Hoshisaki
+Conversation Rui&Maria
 </div>
 @endsection
 

@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-Famous store Introduction
+Recommended store
 </div>
 
 @endsection
@@ -65,7 +65,7 @@ Famous store Introduction
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-Famous store Introduction
+Recommended store
 </div>
 @endsection
 

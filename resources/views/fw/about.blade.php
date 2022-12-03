@@ -57,33 +57,6 @@
                                         <div class="about_content"><a href="http://andy-creative.com/">http://andy-creative.com/</a></div>
                                     </div>
                                 </div>
-                                <div class="about_div">
-                                    <div class="about_title">発行情報</div>
-                                    <div class="about_content_div">
-                                        <div class="about_name">発行日</div>
-                                        <div class="about_content">令和4年01月12日</div>
-                                    </div>
-                                    <div class="about_content_div">
-                                        <div class="about_name">発行人</div>
-                                        <div class="about_content">島津諒</div>
-                                    </div>
-                                    <div class="about_content_div">
-                                        <div class="about_name">編集人</div>
-                                        <div class="about_content">島津諒</div>
-                                    </div>
-                                    <div class="about_content_div">
-                                        <div class="about_name">発行元</div>
-                                        <div class="about_content">株式会社Ace&Co.</div>
-                                    </div>
-                                    <div class="about_content_div">
-                                        <div class="about_name">所在地</div>
-                                        <div class="about_content">〒542-0077 大阪市中央区道頓堀１丁目東5-21-B1<br><a href="https://www.google.co.jp/maps/search/%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%80%EF%BC%91%E4%B8%81%E7%9B%AE%E6%9D%B15-21/">GOOGLE MAP</a></div>
-                                    </div>
-                                    <div class="about_content_div">
-                                        <div class="about_name">TEL</div>
-                                        <div class="about_content">06-6484-3861</div>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </figure>
@@ -157,46 +130,6 @@ About
                     </div>
                 </div>
             </section>
-
-            <section class="section scroll-section" data-scroll-section id="sp_section2">
-                <div class="section-header">
-                    <div class="thumbnail section_img trac-back">
-                    <figure data-scroll data-delay="0.05">
-                        <img src="{{ asset('img/about_sp2.png') }}" class="sp_img" alt="" style="top:46%">
-                        <div class="about_div_sp">
-                            <div class="about_title">発行情報</div>
-                            <div class="about_content_div_sp">
-                                <div class="about_name">発行日</div>
-                                <div class="about_content">令和4年01月12日</div>
-                            </div>
-                            <div class="about_content_div_sp">
-                                <div class="about_name">発行人</div>
-                                <div class="about_content">島津諒</div>
-                            </div>
-                            <div class="about_content_div_sp">
-                                <div class="about_name">編集人</div>
-                                <div class="about_content">島津諒</div>
-                            </div>
-                            <div class="about_content_div_sp">
-                                <div class="about_name">発行元</div>
-                                <div class="about_content">株式会社Ace&Co.</div>
-                            </div>
-                            <div class="about_content_div_sp">
-                                <div class="about_name">所在地</div>
-                                <div class="about_content">〒542-0077 大阪市中央区道頓堀１丁目東5-21-B1<br><a href="https://www.google.co.jp/maps/search/%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%80%EF%BC%91%E4%B8%81%E7%9B%AE%E6%9D%B15-21/">GOOGLE MAP</a></div>
-                            </div>
-                            <div class="about_content_div_sp">
-                                <div class="about_name">TEL</div>
-                                <div class="about_content">06-6484-3861</div>
-                            </div>
-                        </div>
-
-                    </figure>
-                    </div>
-                </div>
-            </section>
-
-
         </div>
     </main>
 </div>

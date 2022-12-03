@@ -772,6 +772,14 @@ html.has-scroll-init {
   width: 1920px;
 }
 
+
+#birthday_section2 {
+  margin-left: -50px;
+}
+#birthday_section4 {
+  margin-left: 55px;
+}
+
 #susukino_section1, #susukino_section2, #susukino_section3 {
   width: 1920px;
 }
@@ -928,6 +936,13 @@ html.has-scroll-init {
   
   #birthday_section1, #birthday_section2, #birthday_section3, #birthday_section4 {
     width: 1280px;
+  }
+  
+  #birthday_section2 {
+    margin-left: -35px;
+  }
+  #birthday_section4 {
+    margin-left: 35px;
   }
   
   #susukino_section1, #susukino_section2, #susukino_section3 {

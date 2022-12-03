@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-    Santa Cosplay
+Christmas Costume
 </div>
 
 @endsection
@@ -60,7 +60,7 @@
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-Santa Cosplay
+Christmas Costume
 </div>
 @endsection
 

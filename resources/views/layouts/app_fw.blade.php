@@ -53,8 +53,8 @@
                             <a href="{{ route('fw.maria_rui') }}" class="menu_list_a">Conversation Rui&Maria</a>
                             <a href="{{ route('fw.dress_restaurant') }}" class="menu_list_a">Restaurant 'Rinascere Dojima'</a>
                             <a href="{{ route('fw.pet') }}" class="menu_list_a">beloved dog</a>
-                            <a href="{{ route('fw.zara') }}" class="menu_list_a">special contens「ZARA」</a>
-                            <a href="{{ route('fw.archivio') }}" class="menu_list_a">special contens 「archivio」</a>
+                            <a href="{{ route('fw.zara') }}" class="menu_list_a">special contents「ZARA」</a>
+                            <a href="{{ route('fw.archivio') }}" class="menu_list_a">special contents「archivio」</a>
                             <a href="{{ route('fw.fortune') }}" class="menu_list_a">Divination</a>
                             <a href="{{ route('fw.spur') }}" class="menu_list_a">Dress shop 'SPUR'</a>
                             <a href="{{ route('fw.famous') }}" class="menu_list_a">Recommended store</a>
@@ -72,16 +72,16 @@
                         <div class="menu_list2">
                             <a href="http://www.andy-dress.com/" class="menu_list_a2" target="_blank">Andy official web shop</a>
                             <a href="{{ route('fw.shop_list') }}" class="menu_list_a2">Shop List</a>
-                            <a href="{{ route('fw.model_list') }}" class="menu_list_a2">MODEL List</a>
+                            <a href="{{ route('fw.model_list') }}" class="menu_list_a2">Model List</a>
                             <a href="{{ route('fw.contact') }}" class="menu_list_a2">Contact</a>
                             <a href="{{ route('fw.about') }}" class="menu_list_a2">About</a>
                         </div>
                     </div>
                     <div class="header_icon_list">
+                        <a href="https://twitter.com/andy_dressbrand" target="_blank"><img src="{{ asset('img/twitter.png') }}" class="header_icon_sp"></a>
+                        <a href="https://www.facebook.com/andy.co.ltd?hc_location=stream" target="_blank"><img src="{{ asset('img/facebook.png') }}" class="header_icon_sp"></a>
+                        <a href="https://line.me/R/ti/p/%40xat.0000158641.pf4" target="_blank"><img src="{{ asset('img/line.png') }}" class="header_icon_sp"></a>
                         <a href="https://www.instagram.com/andy_fashion_press" target="_blank"><img src="{{ asset('img/instagram.png') }}" class="header_icon_sp"></a>
-                        <a href=""><img src="{{ asset('img/line.png') }}" class="header_icon_sp"></a>
-                        <a href=""><img src="{{ asset('img/twitter.png') }}" class="header_icon_sp"></a>
-                        <a href="https://www.youtube.com/channel/UCHHbNcktTOM3iyrjeBUs0oQ/featured" target="_blank"><img src="{{ asset('img/youtube.png') }}" class="header_icon_sp" style="width: 56px;"></a>
                     </div>
                 </div>
             </div>
@@ -163,10 +163,10 @@
                             <a href="{{ route('fw.pet') }}" class="menu_content_sp">beloved dog</a>
                             </li>
                             <li>
-                            <a href="{{ route('fw.zara') }}" class="menu_content_sp">special contens「ZARA」</a>
+                            <a href="{{ route('fw.zara') }}" class="menu_content_sp">special contents「ZARA」</a>
                             </li>
                             <li>
-                            <a href="{{ route('fw.archivio') }}" class="menu_content_sp">special contens 「archivio」</a>
+                            <a href="{{ route('fw.archivio') }}" class="menu_content_sp">special contents「archivio」</a>
                             </li>
                             <li>
                             <a href="{{ route('fw.fortune') }}" class="menu_content_sp">Divination</a>
@@ -193,17 +193,17 @@
                         </div> -->
 
                         <div class="sp_menu_flex">
-                            <a href="http://www.andy-dress.com/" class="sp_menu_a" target="_blank">Official EC</a>
+                            <a href="http://www.andy-dress.com/" class="sp_menu_a" target="_blank">Andy official web shop</a>
                             <a href="{{ route('fw.shop_list') }}" class="sp_menu_a">Shop List</a>
                             <a href="{{ route('fw.model_list') }}" class="sp_menu_a">Model List</a>
                             <a href="{{ route('fw.contact') }}" class="sp_menu_a">Contact</a>
                             <a href="{{ route('fw.about') }}" class="sp_menu_a">About</a>
                         </div>
                         <div class="header_icon_list">
-                            <a href="https://twitter.com/andy_dressbrand"><img src="{{ asset('img/twitter.png') }}" class="header_icon_sp"></a>
-                            <a href=""><img src="{{ asset('img/facebook.png') }}" class="header_icon_sp"></a>
-                            <a href=""><img src="{{ asset('img/line.png') }}" class="header_icon_sp"></a>
-                            <a href="https://www.instagram.com/andy_fashion_press"><img src="{{ asset('img/instagram.png') }}" class="header_icon_sp"></a>
+                            <a href="https://twitter.com/andy_dressbrand" target="_blank"><img src="{{ asset('img/twitter.png') }}" class="header_icon_sp"></a>
+                            <a href="https://www.facebook.com/andy.co.ltd?hc_location=stream" target="_blank"><img src="{{ asset('img/facebook.png') }}" class="header_icon_sp"></a>
+                            <a href="https://line.me/R/ti/p/%40xat.0000158641.pf4" target="_blank"><img src="{{ asset('img/line.png') }}" class="header_icon_sp"></a>
+                            <a href="https://www.instagram.com/andy_fashion_press" target="_blank"><img src="{{ asset('img/instagram.png') }}" class="header_icon_sp"></a>
                         </div>
                     </div>
                 </div>

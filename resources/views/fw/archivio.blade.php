@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-    Golf wear By:ARCHIVIO
+special contents「archivio」
 </div>
 
 @endsection
@@ -54,7 +54,7 @@
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-Special Edition : archivio
+special contents「archivio」
 </div>
 @endsection
 

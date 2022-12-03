@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-    Best select Restaurant
+Restaurant 'Rinascere Dojima'
 </div>
 
 @endsection
@@ -80,7 +80,7 @@
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-Best select Restaurant
+Restaurant 'Rinascere Dojima'
 </div>
 @endsection
 

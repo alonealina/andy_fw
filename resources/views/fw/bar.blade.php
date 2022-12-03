@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-    Girl's Bar
+Girls Public Bar EMO
 </div>
 
 @endsection
@@ -41,7 +41,7 @@
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-Girl's Bar
+Girls Public Bar EMO
 </div>
 
 @endsection

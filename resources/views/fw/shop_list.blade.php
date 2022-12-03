@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-SHOP List
+Shop List
 </div>
 
 @endsection
@@ -219,7 +219,7 @@ SHOP List
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-SHOP List
+Shop List
 </div>
 @endsection
 

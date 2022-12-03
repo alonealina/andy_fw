@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-Special Interview : Eri Ogawa
+Interview : Eri Ogawa
 </div>
 
 @endsection
@@ -51,7 +51,7 @@ Special Interview : Eri Ogawa
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-Special Interview : Eri Ogawa
+Interview : Eri Ogawa
 </div>
 @endsection
 

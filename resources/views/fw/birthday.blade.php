@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-    Kotomi Birthday
+Birthday Event Report
 </div>
 
 @endsection
@@ -51,7 +51,7 @@
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-Kotomi Birthday
+Birthday Event Report
 </div>
 @endsection
 

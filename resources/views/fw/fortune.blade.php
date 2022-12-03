@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-Special Edition : Divination
+Divination
 </div>
 
 @endsection
@@ -43,7 +43,7 @@ Special Edition : Divination
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-Special Edition : Divination
+Divination
 </div>
 @endsection
 

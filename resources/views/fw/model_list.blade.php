@@ -2,7 +2,7 @@
 
 @section('header_page')
 <div class="header_page_name">
-    MODEL List
+    Model List
 </div>
 
 @endsection
@@ -37,7 +37,7 @@
 
 @section('header_page_sp')
 <div class="header_page_name_sp">
-MODEL List
+Model List
 </div>
 @endsection
 
