@@ -168,11 +168,11 @@ class FwController extends Controller
         $mail = $request->mail;
 
         Mail::send('mail', $data, function($message) use ($mail){
-            $message->to($mail, 'Test')->subject('【Andy】お問い合わせ完了のご案内');
+            $message->to($mail, $mail)->subject('【Andy】お問い合わせ完了のご案内');
         });
 
         Mail::send('mail_admin', $data, function($message) {
-            $message->to('info@andy-creative.com', 'Test')->subject('【Andy】お問い合わせ受け付けのお知らせ');
+            $message->to('info@ace-co.press', 'info@ace-co.press')->subject('【Andy】お問い合わせ受け付けのお知らせ');
         });
 
         return redirect()->to('mail_complete');
