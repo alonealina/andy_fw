@@ -9,6 +9,7 @@ use App\Models\ItemSize;
 use App\Models\Size;
 use App\Models\Brand;
 use App\Models\AdminUser;
+use Mail;
 
 class FwController extends Controller
 {
@@ -155,6 +156,30 @@ class FwController extends Controller
     public function contact()
     {
         return view('fw.contact');
+    }
+
+    public function mail_send(Request $request)
+    {
+    	$data = ['name' => $request->name,
+                'mail' => $request->mail,
+                'tel' => $request->tel,
+                'content' => $request->content,];
+
+        $mail = $request->mail;
+
+        Mail::send('mail', $data, function($message) use ($mail){
+            $message->to($mail, 'Test')->subject('【Andy】お問い合わせ完了のご案内');
+        });
+
+        Mail::send('mail_admin', $data, function($message) {
+            $message->to('info@andy-creative.com', 'Test')->subject('【Andy】お問い合わせ受け付けのお知らせ');
+        });
+
+        return redirect()->to('contact');
+    }
+    public function mail_complete()
+    {
+        return view('fw.mail_complete');
     }
 
     public function about()

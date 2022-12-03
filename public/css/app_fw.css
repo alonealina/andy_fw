@@ -3329,3 +3329,7 @@ label {
         letter-spacing: 0.5px;
     }
 }
+
+.mail_comp {
+    text-align: center;
+}

@@ -34,6 +34,8 @@ Route::get('sns', 'App\Http\Controllers\FwController@sns')->name('fw.sns');
 Route::get('model_list', 'App\Http\Controllers\FwController@model_list')->name('fw.model_list');
 Route::get('shop_list', 'App\Http\Controllers\FwController@shop_list')->name('fw.shop_list');
 Route::get('contact', 'App\Http\Controllers\FwController@contact')->name('fw.contact');
+Route::post('mail_send', 'App\Http\Controllers\FwController@mail_send')->name('fw.mail_send');
+Route::get('mail_complete', 'App\Http\Controllers\FwController@mail_complete')->name('fw.mail_complete');
 Route::get('about', 'App\Http\Controllers\FwController@about')->name('fw.about');
 
 
