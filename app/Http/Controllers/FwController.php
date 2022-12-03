@@ -175,7 +175,7 @@ class FwController extends Controller
             $message->to('info@andy-creative.com', 'Test')->subject('【Andy】お問い合わせ受け付けのお知らせ');
         });
 
-        return redirect()->to('contact');
+        return redirect()->to('mail_complete');
     }
     public function mail_complete()
     {
