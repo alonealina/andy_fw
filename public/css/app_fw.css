@@ -3078,7 +3078,7 @@ label {
     right: 5%;
 }
 .andy_btn_sp4 {
-    top: calc((100% - 492px + 100vw - 390px) / 2.174 );
+    top: calc((100% - -568px + 100vw - 390px) / 2.174 );
     right: 5%;
 }
 .andy_btn_sp5 {
@@ -3090,8 +3090,8 @@ label {
     right: 6%;
 }
 .andy_btn_sp7 {
-    top: calc((100% - -390px + 100vw - 390px) / 2.174 );
-    right: 5%;
+    top: calc((100% - -530px + 100vw - 390px) / 2.174 );
+    right: 3%;
 }
 .andy_btn_sp8 {
     top: calc((100% - 190px + 100vw - 390px) / 2.174 );
@@ -3102,7 +3102,7 @@ label {
     right: 5%;
 }
 .andy_btn_sp10 {
-    top: calc((100% - 220px + 100vw - 390px) / 2.174 );
+    top: calc((100% - -580px + 100vw - 390px) / 2.174 );
     right: 11%;
 }
 
@@ -3316,7 +3316,7 @@ label {
 
 @media screen and (min-width: 395px) {
     .andy_btn_sp4 {
-        top: calc((100% - 572px + 100vw - 390px) / 2.174 )!important;
+        top: calc((100% - -578px + 100vw - 390px) / 2.174 )!important;
     }
     .famous_gms_sp {
         top: calc((100% - 121px) / 2.22);
