@@ -3187,6 +3187,10 @@ label {
     right: 30.5%;
 }
 
+.new_btn_sp0 {
+    top: calc((100% - -920px + 100vw - 780px) / 2.174 );
+    right: 15%;
+}
 .new_btn_sp1 {
     top: calc((100% - -920px + 100vw - 780px) / 2.174 );
     left: 53%;

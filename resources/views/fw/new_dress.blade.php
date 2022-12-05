@@ -67,7 +67,10 @@ Bijou Dress with Asuka Ayano
             <section class="section scroll-section" data-scroll-section id="sp_section_wide">
                 <div class="section-header">
                     <div class="thumbnail section_img trac-back">
-                    <figure data-scroll data-delay="0.05"><img src="{{ asset('img/new_dress_sp1.png') }}" class="sp_img" alt="" style="top:46%"></figure>
+                    <figure data-scroll data-delay="0.05">
+                        <img src="{{ asset('img/new_dress_sp1.png') }}" class="sp_img" alt="" style="top:46%">
+                        <a href="https://www.andy-dress.com/fs/andy/aoc-3331" class="buy_btn_white_sp_a new_btn_sp0" target="_blank">ご購入はこちら</a>
+                    </figure>
                     </div>
                 </div>
             </section>

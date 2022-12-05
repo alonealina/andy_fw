@@ -715,6 +715,10 @@ html.has-scroll-init {
   width: 100%;
 }
 
+#sns_section {
+  width: 1920px;
+}
+
 #pickup_section1, #pickup_section2, #pickup_section3 {
   width: 1920px;
 }
