@@ -14,7 +14,10 @@ Bijou Dress with Asuka Ayano
             <section class="section scroll-section" data-scroll-section id="new_dress_section1">
                 <div class="section-header">
                     <div class="thumbnail section_img trac-back">
-                    <figure data-scroll data-delay="0.05"><img src="{{ asset('img/new_dress1.png') }}" class="" alt="" style="top: 47%;"></figure>
+                    <figure data-scroll data-delay="0.05">
+                        <img src="{{ asset('img/new_dress1.png') }}" class="" alt="" style="top: 47%;">
+                        <a href="https://www.andy-dress.com/fs/andy/aoc-3326" class="buy_btn_a new_btn0" target="_blank">ご購入はこちら</a>
+                    </figure>
                     </div>
                 </div>
             </section>

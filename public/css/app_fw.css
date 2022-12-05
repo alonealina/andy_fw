@@ -757,7 +757,7 @@ select {
     margin-top: 15px;
     display: block;
     min-width: 50%;
-    font: normal normal normal 16px/18px Arial;
+    font: normal normal normal 13px/16px Arial;
     color: #000;
     text-decoration: underline;
 }
@@ -2399,20 +2399,24 @@ label {
         left: 944px;
     }
 
+    .new_btn0 {
+        top: calc((100% - -480px) / 2.128);
+        left: 339px;
+    }
     .new_btn1 {
-        top: calc((100% - -690px) / 2);
+        top: calc((100% - -790px) / 2.128);
         left: 719px;
     }
     .new_btn2 {
-        top: calc((100% - -690px) / 2);
+        top: calc((100% - -790px) / 2.128);
         left: 1579px;
     }
     .new_btn3 {
-        top: calc((100% - -590px) / 2);
+        top: calc((100% - -690px) / 2.128);
         left: 719px;
     }
     .new_btn4 {
-        top: calc((100% - -610px) / 2);
+        top: calc((100% - -700px) / 2.128);
         left: 1579px;
     }
 
@@ -2455,7 +2459,7 @@ label {
 
     .enrike_url{
         width: 138px!important;
-        top: calc((100% - 191px) / 2.12)!important;
+        top: calc((100% - 591px) / 2.12)!important;
         left: 1234px!important;
     }
     .enrike_twitter{
@@ -2809,6 +2813,10 @@ label {
         left: 624px;
     }
 
+    .new_btn0 {
+        top: calc((100% - -320px) / 2.12);
+        left: 219px;
+    }
     .new_btn1 {
         top: calc((100% - -520px) / 2.12);
         left: 469px;
@@ -2865,7 +2873,7 @@ label {
 
     .enrike_url{
         width: 92px!important;
-        top: calc((100% - 129px) / 2.12)!important;
+        top: calc((100% - 395px) / 2.12)!important;
         left: 822px!important;
     }
     .enrike_twitter{

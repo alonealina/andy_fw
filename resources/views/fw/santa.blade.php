@@ -24,8 +24,8 @@ Christmas Costume
                     <div class="thumbnail section_img trac-back">
                     <figure data-scroll data-delay="0.05">
                         <img src="{{ asset('img/santa2.png') }}" class="" alt="" style="top:43%">
-                        <a href="https://www.andy-dress.com/fs/andy/7839sb" class="buy_btn_a santa_btn1" target="_blank">ご購入はこちら</a>
-                    </figure>     
+                        <a href="https://www.sugar-net.com/phone/product/69862" class="buy_btn_a santa_btn1" target="_blank">ご購入はこちら</a>
+                    </figure>
                     </div>
                 </div>
             </section>
@@ -35,7 +35,7 @@ Christmas Costume
                     <div class="thumbnail section_img trac-back">
                     <figure data-scroll data-delay="0.05">
                         <img src="{{ asset('img/santa3.png') }}" class="" alt="" style="top:43%">
-                        <a href="https://www.andy-dress.com/fs/andy/ss058yn" class="buy_btn_a santa_btn2" target="_blank">ご購入はこちら</a>
+                        <a href="https://www.sugar-net.com/phone/product/69394" class="buy_btn_a santa_btn2" target="_blank">ご購入はこちら</a>
                     </figure>
                     </div>
                 </div>
@@ -46,7 +46,7 @@ Christmas Costume
                     <div class="thumbnail section_img trac-back">
                     <figure data-scroll data-delay="0.05">
                         <img src="{{ asset('img/santa4.png') }}" class="" alt="" style="top:43%">
-                        <a href="https://www.andy-dress.com/fs/andy/ss080yn" class="buy_btn_a santa_btn3" target="_blank">ご購入はこちら</a>
+                        <a href="https://www.sugar-net.com/phone/product/68598" class="buy_btn_a santa_btn3" target="_blank">ご購入はこちら</a>
                     </figure>
                     </div>
                 </div>
@@ -82,7 +82,7 @@ Christmas Costume
                     <div class="thumbnail section_img trac-back">
                     <figure data-scroll data-delay="0.05">
                         <img src="{{ asset('img/santa_sp2.png') }}" class="sp_img" alt="" style="top:46%">
-                        <a href="https://www.andy-dress.com/fs/andy/7839sb" class="buy_btn_a santa_btn_sp1" target="_blank">ご購入はこちら</a>
+                        <a href="https://www.sugar-net.com/phone/product/69862" class="buy_btn_a santa_btn_sp1" target="_blank">ご購入はこちら</a>
                     </figure>
                     </div>
                 </div>
@@ -93,7 +93,7 @@ Christmas Costume
                     <div class="thumbnail section_img trac-back">
                     <figure data-scroll data-delay="0.05">
                         <img src="{{ asset('img/santa_sp3.png') }}" class="sp_img" alt="" style="top:46%">
-                        <a href="https://www.andy-dress.com/fs/andy/ss058yn" class="buy_btn_a santa_btn_sp2" target="_blank">ご購入はこちら</a>
+                        <a href="https://www.sugar-net.com/phone/product/69394" class="buy_btn_a santa_btn_sp2" target="_blank">ご購入はこちら</a>
                     </figure>
                     </div>
                 </div>
@@ -104,7 +104,7 @@ Christmas Costume
                     <div class="thumbnail section_img trac-back">
                     <figure data-scroll data-delay="0.05">
                         <img src="{{ asset('img/santa_sp4.png') }}" class="sp_img" alt="" style="top:46%">
-                        <a href="https://www.andy-dress.com/fs/andy/ss080yn" class="buy_btn_a santa_btn_sp3" target="_blank">ご購入はこちら</a>
+                        <a href="https://www.sugar-net.com/phone/product/68598" class="buy_btn_a santa_btn_sp3" target="_blank">ご購入はこちら</a>
                     </figure>
                     </div>
                 </div>

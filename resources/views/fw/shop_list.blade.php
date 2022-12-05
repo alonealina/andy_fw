@@ -16,200 +16,135 @@ Shop List
                 <div class="store_list header_margin">
                     <div class="store_pref">OFFICIAL SHOP</div>
                     <div class="store_list_flex">
-                        <a href="http://www.andy-dress.com/?utm_source=andy-inc&utm_medium=shoplist" class="store_a">Andy 公式通販</a>
+                        <a href="http://www.andy-dress.com/?utm_source=andy-inc&utm_medium=shoplist" class="store_a" target="_blank">Andy 公式通販</a>
                     </div>
 
                     <div class="store_pref">北海道</div>
                     <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a">オレンジハウス(本店)</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a">オレンジハウス(ススキノ店)</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a">SPUR</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a">JAM</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a" target="_blank">オレンジハウス(本店)</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a" target="_blank">オレンジハウス(ススキノ店)</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a" target="_blank">SPUR</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a" target="_blank">JAM</a>
                     </div>
 
-                    <div class="store_pref">宮城県</div>
+                    <div class="store_pref">東北</div>
                     <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a">Bay-B-Club 仙台店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a">ブリリアント</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a">PB1 仙台Ⅰ号店</a>
-                        <a class="store_a">PB1 仙台Ⅱ号店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a" target="_blank">ブリリアント</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a" target="_blank">PB1 仙台</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a" target="_blank">LOUFER</a>
                     </div>
 
-                    <div class="store_pref">千葉県</div>
+                    <div class="store_pref">北陸/上信越</div>
                     <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a">Bay-B-Club 柏店</a>
-                        <a class="store_a">Bay-B-Club 船橋店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a">Bay-B-Club 千葉店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a" target="_blank">sugar 古町店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a" target="_blank">PEARL</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a" target="_blank">make cat</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a" target="_blank">make cat matsumoto</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a" target="_blank">RODEO DRIVE 掛尾店</a>
                     </div>
 
-                    <div class="store_pref">東京都</div>
+                    <div class="store_pref">関東</div>
                     <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a">Bay-B-Club 池袋店</a>
-                        <a class="store_a">Bay-B-Club 渋谷店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a">Le・Dione</a>
-                        <a class="store_a">Ebonye</a>
-                        <a class="store_a">ゴールドスター</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a">Bay-B-Club 新宿サブナード店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a">Bay-B-Club 新宿アルタ店</a>
-                        <a class="store_a">AIDMAX Garls Style</a>
-                        <a class="store_a">ルーヴル 歌舞伎町</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a">プログレス</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a">シライ</a>
-                        <a class="store_a">09 by dazzy</a>
-                        <a class="store_a">ホームシック</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a">ニュースソース</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a" target="_blank">ZEST</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a" target="_blank">COSMO</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a" target="_blank">Bay-B-Club 大宮</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a" target="_blank">ange</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a" target="_blank">Bay-B-Club 柏</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a" target="_blank">Bay-B-Club 千葉MIO本店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a" target="_blank">BINOMA</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a" target="_blank">Black Cat</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a" target="_blank">Bay-B-Club 横浜</a>
+                        <a class="store_a" target="_blank">Macllyz 関内</a>
                     </div>
 
-                    <div class="store_pref">神奈川県</div>
-                    <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a">Bay-B-Club 横浜店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a">ブラックキャット</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a">BINOMA</a>
-                    </div>
                 </div>
 
             </section>
 
             <section class="section scroll-section" data-scroll-section id="shop_list_section2">
                 <div class="store_list header_margin">
-                    <div class="store_pref">新潟県</div>
+
+                <div class="store_pref">首都圏</div>
                     <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a">sugar 古町店</a>
-                        <a class="store_a">sugar&jewels 新潟ALTA</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">SHIRAI</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">sugar 歌舞伎町店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">Dazzy 新宿サブナート</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">ニュースソース</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">プログレス</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">Bay-B-Club 池袋</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">Bay-B-Club 池袋アルタ</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">Bay-B-Club 新宿アルタ</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">Bay-B-Club 新宿サブナード</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">Bay-B-Club 町田</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">Bay-B-Club 上野</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a" target="_blank">Le Dione</a>
+                        <a class="store_a" target="_blank">RIGEL</a>
                     </div>
 
-                    <div class="store_pref">富山県</div>
+                    <div class="store_pref">東海</div>
                     <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a">ロディオ ドライブ 掛尾店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a" target="_blank">DC-1</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a" target="_blank">PB-1 錦 Ⅰ号店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a" target="_blank">Moon</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a" target="_blank">Cupid Dress coection</a>
+                        <a class="store_a" target="_blank">DRESS SHOP UNICORN</a>
                     </div>
 
-                    <div class="store_pref">石川県</div>
+                    <div class="store_pref">関西</div>
                     <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a">PEARL</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a">PEARL2</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a" target="_blank">Bay-B-Club 心斎橋店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai"class="store_a" target="_blank">Galle</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai"class="store_a" target="_blank">コルテ・デ・モード</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai"class="store_a" target="_blank">Macllyz 京都</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a" target="_blank">Attachment</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a" target="_blank">Gaudi</a>
+                        <a class="store_a" target="_blank">be milano 北新地店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a" target="_blank">TIARA</a>
+                        <a class="store_a" target="_blank">Vanity ME. 北新地</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a" target="_blank">LiLLion</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a" target="_blank">an by Vanity ME.</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a" target="_blank">Vanity ME. 心斎橋</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a" target="_blank">Vanity ME. 八幡筋</a>
                     </div>
 
-                    <div class="store_pref">長野県</div>
+                    <div class="store_pref">中国/四国</div>
                     <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a">make cat matsumoto</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a">make cat</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a" target="_blank">VIARU</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a" target="_blank">TOP CHIC</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a" target="_blank">クラウンジュエル</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a" target="_blank">PB-1 広島3号店</a>
                     </div>
 
-                    <div class="store_pref">岐阜県</div>
-                    <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a">Ririka</a>
-                    </div>
-
-                    <div class="store_pref">静岡県</div>
-                    <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a">Bay-B-Club 静岡店</a>
-                        <a  class="store_a">MIYUKI</a>
-                    </div>
-
-                    <div class="store_pref">愛知県</div>
-                    <div class="store_list_flex">
-                        <a class="store_a">Bay-B-Club 名古屋店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a">マリーズshop 大須店</a>
-                        <a class="store_a">PB1 栄店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a">PB1錦 DCⅠ</a>
-                        <a class="store_a">PB1錦 Ⅰ号店</a>
-                        <a class="store_a">PB1錦 Ⅱ号店</a>
-                        <a class="store_a">PB1錦 Ⅲ号店</a>
-                    </div>
                 </div>
             </section>
 
             <section class="section scroll-section" data-scroll-section id="shop_list_section3">
                 <div class="store_list header_margin">
 
-                    <div class="store_pref">京都府</div>
+                    <div class="store_pref">九州</div>
                     <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai" class="store_a">Macllyz 京都店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai" class="store_a">コルテ・デ・モード</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai" class="store_a">Galle</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">A♥cloth</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">Cinderella</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">HITSUJIYA</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">be milano 川丈店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">be milano 大通り店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">ヒロクロージング</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">ラビリンス</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">1 Million</a>
+                        <a class="store_a" target="_blank">ドレスショップ　ヴォーグ</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">Pareo</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">LOVES.ME</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">Linda 本店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">ALACARTE</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">KINA 宮崎</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">ドレスのフルタ</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">sugar 鹿児島店</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">Dazzy 沖縄</a>
+                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a" target="_blank">BELLESOI 松山店</a>
                     </div>
-
-                    <div class="store_pref">大阪府</div>
-                    <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a">Macllyz 長堀店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a">Bay-B-Club 心斎橋店</a>
-                        <a class="store_a">Andy By No Name OPA店</a>
-                        <a class="store_a">istinto OPA店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a">シェリー 高槻店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a">シェリー 茨木店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a">Bay-B-Club 梅田店</a>
-                        <a class="store_a">ロイヤル　マコニス</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a">ティアラミナミ</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a">an by Vanity ME.</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a">アタッチメント</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a">Vanity ME.</a>
-                        <a class="store_a">Tika 心斎橋店</a>
-                        <a class="store_a">Tika 東心斎橋店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a">LiLLion</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a">ビ・ミラノ 北新地</a>
-                        <a class="store_a">Tika 北新地店</a>
-                        <a class="store_a">ガウディ</a>
-                    </div>
-
-                    <div class="store_pref">岡山県</div>
-                    <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a">VIARU</a>
-                    </div>
-
-                    <div class="store_pref">広島県</div>
-                    <div class="store_list_flex">
-                        <a class="store_a">クラウンジュエル 宮通り店</a>
-                        <a class="store_a">PB1 広島2号店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a">PB1 広島3号店</a>
-                        <a class="store_a">Faith</a>
-                    </div>
-
-                    <div class="store_pref">福岡県</div>
-                    <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">アクロス</a>
-                        <a class="store_a">Bay-B-Club 天神店</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">ひつじや六つ門</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">1Million</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">ラビリンス</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">シンデレラ</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">ビ・ミラノ 川丈</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">ビ・ミラノ 大通り</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">ヒロクロージング</a>
-                    </div>
-
                 </div>
 
             </section>
-
-            <section class="section scroll-section" data-scroll-section id="shop_list_section4">
-                <div class="store_list header_margin">
-                    <div class="store_pref">熊本県</div>
-                    <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">Linda</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">Linda(アリストン店)</a>
-                    </div>
-
-                    <div class="store_pref">宮崎県</div>
-                    <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">ドレスのフルタ</a>
-                        <a class="store_a">GIRL</a>
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">KINA宮崎店</a>
-                    </div>
-
-                    <div class="store_pref">鹿児島県</div>
-                    <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">sugar</a>
-                    </div>
-
-                    <div class="store_pref">沖縄県</div>
-                    <div class="store_list_flex">
-                        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a">Dazzy 沖縄</a>
-                    </div>
-
-                </div>
-
-            </section>
-
 
         </div>
     </main>
@@ -230,223 +165,124 @@ Shop List
         OFFICIAL SHOP<img src="{{ asset('img/down_black.png') }}" id="down1" class="down"><img src="{{ asset('img/up_black.png') }}" id="up1" class="up">
     </a>
     <div class="store_list_flex_sp" id="store1">
-        <a href="http://www.andy-dress.com/?utm_source=andy-inc&utm_medium=shoplist" class="store_a_sp">Andy 公式通販</a>
+        <a href="http://www.andy-dress.com/?utm_source=andy-inc&utm_medium=shoplist" class="store_a_sp" target="_blank">Andy 公式通販</a>
     </div>
 
     <a href="#!" class="store_pref_sp" onclick="clickStorePref2();">
         北海道<img src="{{ asset('img/down_black.png') }}" id="down2" class="down"><img src="{{ asset('img/up_black.png') }}" id="up2" class="up">
     </a>
     <div class="store_list_flex_sp" id="store2">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a_sp">オレンジハウス(本店)</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a_sp">オレンジハウス(ススキノ店)</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a_sp">SPUR</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a_sp">JAM</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a_sp" target="_blank">オレンジハウス(本店)</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a_sp" target="_blank">オレンジハウス(ススキノ店)</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a_sp" target="_blank">SPUR</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_hokkaido" class="store_a_sp" target="_blank">JAM</a>
     </div>
 
     
     <a href="#!" class="store_pref_sp" onclick="clickStorePref3();">
-    宮城県<img src="{{ asset('img/down_black.png') }}" id="down3" class="down"><img src="{{ asset('img/up_black.png') }}" id="up3" class="up">
+    東北<img src="{{ asset('img/down_black.png') }}" id="down3" class="down"><img src="{{ asset('img/up_black.png') }}" id="up3" class="up">
     </a>
     <div class="store_list_flex_sp" id="store3">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a_sp">Bay-B-Club 仙台店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a_sp">ブリリアント</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a_sp">PB1 仙台Ⅰ号店</a>
-        <a class="store_a_sp">PB1 仙台Ⅱ号店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a_sp" target="_blank">ブリリアント</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a_sp" target="_blank">PB1 仙台</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_touhoku" class="store_a_sp" target="_blank">LOUFER</a>
     </div>
 
 
     <a href="#!" class="store_pref_sp" onclick="clickStorePref4();">
-    千葉県<img src="{{ asset('img/down_black.png') }}" id="down4" class="down"><img src="{{ asset('img/up_black.png') }}" id="up4" class="up">
+    北陸/上信越<img src="{{ asset('img/down_black.png') }}" id="down4" class="down"><img src="{{ asset('img/up_black.png') }}" id="up4" class="up">
     </a>
     <div class="store_list_flex_sp" id="store4">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a_sp">Bay-B-Club 柏店</a>
-        <a class="store_a_sp">Bay-B-Club 船橋店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a_sp">Bay-B-Club 千葉店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a_sp" target="_blank">sugar 古町店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a_sp" target="_blank">PEARL</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a_sp" target="_blank">make cat</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a_sp" target="_blank">make cat matsumoto</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a_sp" target="_blank">RODEO DRIVE 掛尾店</a>
     </div>
 
     <a href="#!" class="store_pref_sp" onclick="clickStorePref5();">
-    東京都<img src="{{ asset('img/down_black.png') }}" id="down5" class="down"><img src="{{ asset('img/up_black.png') }}" id="up5" class="up">
+    首都圏<img src="{{ asset('img/down_black.png') }}" id="down5" class="down"><img src="{{ asset('img/up_black.png') }}" id="up5" class="up">
     </a>
     <div class="store_list_flex_sp" id="store5">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp">Bay-B-Club 池袋店</a>
-        <a class="store_a_sp">Bay-B-Club 渋谷店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp">Le・Dione</a>
-        <a class="store_a_sp">Ebonye</a>
-        <a class="store_a_sp">ゴールドスター</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp">Bay-B-Club 新宿サブナード店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp">Bay-B-Club 新宿アルタ店</a>
-        <a class="store_a_sp">AIDMAX Garls Style</a>
-        <a class="store_a_sp">ルーヴル 歌舞伎町</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp">プログレス</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp">シライ</a>
-        <a class="store_a_sp">09 by dazzy</a>
-        <a class="store_a_sp">ホームシック</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp">ニュースソース</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">SHIRAI</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">sugar 歌舞伎町店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">Dazzy 新宿サブナート</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">ニュースソース</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">プログレス</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">Bay-B-Club 池袋</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">Bay-B-Club 池袋アルタ</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">Bay-B-Club 新宿アルタ</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">Bay-B-Club 新宿サブナード</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">Bay-B-Club 町田</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">Bay-B-Club 上野</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_tokyo" class="store_a_sp" target="_blank">Le Dione</a>
+        <a class="store_a_sp" target="_blank">RIGEL</a>
     </div>
 
     <a href="#!" class="store_pref_sp" onclick="clickStorePref6();">
-    神奈川県<img src="{{ asset('img/down_black.png') }}" id="down6" class="down"><img src="{{ asset('img/up_black.png') }}" id="up6" class="up">
+    東海<img src="{{ asset('img/down_black.png') }}" id="down6" class="down"><img src="{{ asset('img/up_black.png') }}" id="up6" class="up">
     </a>
     <div class="store_list_flex_sp" id="store6">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a_sp">Bay-B-Club 横浜店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a_sp">ブラックキャット</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kanto" class="store_a_sp">BINOMA</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a_sp" target="_blank">DC-1</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a_sp" target="_blank">PB-1 錦 Ⅰ号店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a_sp" target="_blank">Moon</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a_sp" target="_blank">Cupid Dress coection</a>
+        <a class="store_a_sp" target="_blank">DRESS SHOP UNICORN</a>
     </div>
 
     <a href="#!" class="store_pref_sp" onclick="clickStorePref7();">
-    新潟県<img src="{{ asset('img/down_black.png') }}" id="down7" class="down"><img src="{{ asset('img/up_black.png') }}" id="up7" class="up">
+    関西<img src="{{ asset('img/down_black.png') }}" id="down7" class="down"><img src="{{ asset('img/up_black.png') }}" id="up7" class="up">
     </a>
     <div class="store_list_flex_sp" id="store7">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a_sp">sugar 古町店</a>
-        <a class="store_a_sp">sugar&jewels 新潟ALTA</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp" target="_blank">Bay-B-Club 心斎橋店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai"class="store_a_sp" target="_blank">Galle</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai"class="store_a_sp" target="_blank">コルテ・デ・モード</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai"class="store_a_sp" target="_blank">Macllyz 京都</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp" target="_blank">Attachment</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp" target="_blank">Gaudi</a>
+        <a class="store_a_sp" target="_blank">be milano 北新地店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp" target="_blank">TIARA</a>
+        <a class="store_a_sp" target="_blank">Vanity ME. 北新地</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp" target="_blank">LiLLion</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp" target="_blank">an by Vanity ME.</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp" target="_blank">Vanity ME. 心斎橋</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp" target="_blank">Vanity ME. 八幡筋</a>
     </div>
 
     <a href="#!" class="store_pref_sp" onclick="clickStorePref8();">
-    富山県<img src="{{ asset('img/down_black.png') }}" id="down8" class="down"><img src="{{ asset('img/up_black.png') }}" id="up8" class="up">
+    中国/四国<img src="{{ asset('img/down_black.png') }}" id="down8" class="down"><img src="{{ asset('img/up_black.png') }}" id="up8" class="up">
     </a>
     <div class="store_list_flex_sp" id="store8">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a_sp">ロディオ ドライブ 掛尾店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a_sp" target="_blank">VIARU</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a_sp" target="_blank">TOP CHIC</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a_sp" target="_blank">クラウンジュエル</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a_sp" target="_blank">PB-1 広島3号店</a>
     </div>
 
     <a href="#!" class="store_pref_sp" onclick="clickStorePref9();">
-    石川県<img src="{{ asset('img/down_black.png') }}" id="down9" class="down"><img src="{{ asset('img/up_black.png') }}" id="up9" class="up">
+    九州<img src="{{ asset('img/down_black.png') }}" id="down9" class="down"><img src="{{ asset('img/up_black.png') }}" id="up9" class="up">
     </a>
     <div class="store_list_flex_sp" id="store9">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a_sp">PEARL</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a_sp">PEARL2</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">A♥cloth</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">Cinderella</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">HITSUJIYA</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">be milano 川丈店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">be milano 大通り店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">ヒロクロージング</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">ラビリンス</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">1 Million</a>
+        <a class="store_a_sp" target="_blank">ドレスショップ　ヴォーグ</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">Pareo</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">LOVES.ME</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">Linda 本店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">ALACARTE</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">KINA 宮崎</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">ドレスのフルタ</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">sugar 鹿児島店</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">Dazzy 沖縄</a>
+        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp" target="_blank">BELLESOI 松山店</a>
     </div>
 
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref10();">
-    長野県<img src="{{ asset('img/down_black.png') }}" id="down10" class="down"><img src="{{ asset('img/up_black.png') }}" id="up10" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store10">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a_sp">make cat matsumoto</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_hokuriku" class="store_a_sp">make cat</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref11();">
-    岐阜県<img src="{{ asset('img/down_black.png') }}" id="down11" class="down"><img src="{{ asset('img/up_black.png') }}" id="up11" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store11">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a_sp">Ririka</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref12();">
-    静岡県<img src="{{ asset('img/down_black.png') }}" id="down12" class="down"><img src="{{ asset('img/up_black.png') }}" id="up12" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store12">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a_sp">Bay-B-Club 静岡店</a>
-        <a class="store_a_sp">MIYUKI</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref13();">
-    愛知県<img src="{{ asset('img/down_black.png') }}" id="down13" class="down"><img src="{{ asset('img/up_black.png') }}" id="up13" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store13">
-        <a class="store_a_sp">Bay-B-Club 名古屋店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a_sp">マリーズshop 大須店</a>
-        <a class="store_a_sp">PB1 栄店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_toukai" class="store_a_sp">PB1錦 DCⅠ</a>
-        <a class="store_a_sp">PB1錦 Ⅰ号店</a>
-        <a class="store_a_sp">PB1錦 Ⅱ号店</a>
-        <a class="store_a_sp">PB1錦 Ⅲ号店</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref14();">
-    京都府<img src="{{ asset('img/down_black.png') }}" id="down14" class="down"><img src="{{ asset('img/up_black.png') }}" id="up14" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store14">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai" class="store_a_sp">Macllyz 京都店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai" class="store_a_sp">コルテ・デ・モード</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kansai" class="store_a_sp">Galle</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref15();">
-    大阪府<img src="{{ asset('img/down_black.png') }}" id="down15" class="down"><img src="{{ asset('img/up_black.png') }}" id="up15" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store15">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp">Macllyz 長堀店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp">Bay-B-Club 心斎橋店</a>
-        <a class="store_a_sp">Andy By No Name OPA店</a>
-        <a class="store_a_sp">istinto OPA店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp">シェリー 高槻店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp">シェリー 茨木店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp">Bay-B-Club 梅田店</a>
-        <a class="store_a_sp">ロイヤル　マコニス</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp">ティアラミナミ</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp">an by Vanity ME.</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp">アタッチメント</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp">Vanity ME.</a>
-        <a class="store_a_sp">Tika 心斎橋店</a>
-        <a class="store_a_sp">Tika 東心斎橋店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp">LiLLion</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_osaka" class="store_a_sp">ビ・ミラノ 北新地</a>
-        <a class="store_a_sp">Tika 北新地店</a>
-        <a class="store_a_sp">ガウディ</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref16();">
-    岡山県<img src="{{ asset('img/down_black.png') }}" id="down16" class="down"><img src="{{ asset('img/up_black.png') }}" id="up16" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store16">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a_sp">VIARU</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref17();">
-    広島県<img src="{{ asset('img/down_black.png') }}" id="down17" class="down"><img src="{{ asset('img/up_black.png') }}" id="up17" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store17">
-        <a class="store_a_sp">クラウンジュエル 宮通り店</a>
-        <a class="store_a_sp">PB1 広島2号店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_chugoku" class="store_a_sp">PB1 広島3号店</a>
-        <a class="store_a_sp">Faith</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref18();">
-    福岡県<img src="{{ asset('img/down_black.png') }}" id="down18" class="down"><img src="{{ asset('img/up_black.png') }}" id="up18" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store18">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">アクロス</a>
-        <a class="store_a_sp">Bay-B-Club 天神店</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">ひつじや六つ門</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">1Million</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">ラビリンス</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">シンデレラ</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">ビ・ミラノ 川丈</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">ビ・ミラノ 大通り</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">ヒロクロージング</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref19();">
-    熊本県<img src="{{ asset('img/down_black.png') }}" id="down19" class="down"><img src="{{ asset('img/up_black.png') }}" id="up19" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store19">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">Linda</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">Linda(アリストン店)</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref20();">
-    宮崎県<img src="{{ asset('img/down_black.png') }}" id="down20" class="down"><img src="{{ asset('img/up_black.png') }}" id="up20" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store20">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">ドレスのフルタ</a>
-        <a class="store_a_sp">GIRL</a>
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">KINA宮崎店</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref21();">
-    鹿児島県<img src="{{ asset('img/down_black.png') }}" id="down21" class="down"><img src="{{ asset('img/up_black.png') }}" id="up21" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store21">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">sugar</a>
-    </div>
-
-    <a href="#!" class="store_pref_sp" onclick="clickStorePref22();">
-    沖縄県<img src="{{ asset('img/down_black.png') }}" id="down22" class="down"><img src="{{ asset('img/up_black.png') }}" id="up22" class="up">
-    </a>
-    <div class="store_list_flex_sp" id="store22">
-        <a href="https://www.andy-dress.com/fs/andy/c/st_kyusyu" class="store_a_sp">Dazzy 沖縄</a>
-    </div>
 
 </div>
 
