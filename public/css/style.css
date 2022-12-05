@@ -1070,6 +1070,10 @@ html.has-scroll-init {
   width: 200%;
 }
 
+#sp_section_sns {
+  width: 400%;
+}
+
 #sp_section_santa2, #sp_section_santa3 {
   width: 200%;
 }
