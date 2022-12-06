@@ -33,7 +33,7 @@ function clickMailButton() {
     } else if (mail_form.mail.value == ""){
         alert("メールアドレスを入力してください");
         return false;
-    } else if (mail_form.mail.value == ""){
+    } else if (mail_form.content.value == ""){
         alert("お問い合わせ内容を入力してください");
         return false;
     } else {

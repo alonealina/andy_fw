@@ -52,7 +52,7 @@
     <input class="form_text_sp" placeholder="" name="mail" type="text">
 
     <div class="contact_name">messsge</div>
-    <textarea class="form_textarea_sp"></textarea>
+    <textarea class="form_textarea_sp" name="content"></textarea>
 
     <div class="send_button" style="margin-top:20px;">
         <a href="#" onclick="clickMailButton()" style="margin:auto;">SEND</a>
