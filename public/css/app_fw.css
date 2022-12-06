@@ -2329,7 +2329,6 @@ label {
         top: calc((100% - -730px) / 2.174);
         left: 810px;
         text-align: right;
-        text-shadow: 0 0 black;
     }
     .andy_btn3 {
         top: calc((100% - -870px) / 2.174);
@@ -2340,7 +2339,6 @@ label {
         left: 1290px;
         color: #685744;
         text-align: center;
-        text-shadow: 0 0 black;
     }
     .andy_btn4 {
         top: calc((100% - -460px) / 2.174);
@@ -2366,7 +2364,6 @@ label {
     .andy_detail7 {
         top: calc((100% - -702px) / 2.174);
         left: 808px;
-        text-shadow: 0 0 black;
     }
     .andy_btn7 {
         top: calc((100% - -905px) / 2.174);
@@ -2375,7 +2372,6 @@ label {
     .andy_detail8 {
         top: calc((100% - 580px) / 2.174);
         left: 149px;
-        text-shadow: 0 0 black;
     }
     .andy_btn8 {
         top: calc((100% - 430px) / 2.174);
@@ -2754,7 +2750,6 @@ label {
         left: 840px;
         color: #685744;
         text-align: center;
-        text-shadow: 0 0 black;
     }
     .andy_btn4 {
         top: calc((100% - -360px) / 2.174);
@@ -2780,7 +2775,6 @@ label {
     .andy_detail7 {
         top: calc((100% - -472px) / 2.174);
         left: 390px;
-        text-shadow: 0 0 black;
     }
     .andy_btn7 {
         top: calc((100% - -625px) / 2.174);
@@ -2789,7 +2783,6 @@ label {
     .andy_detail8 {
         top: calc((100% - 370px) / 2.174);
         left: 101px;
-        text-shadow: 0 0 black;
     }
     .andy_btn8 {
         top: calc((100% - 250px) / 2.174);
